@@ -17,3 +17,4 @@ UUEE
 - ``UUEE.twr.xml``
 - ``UUEM.threshold.xml``
 - ``UUEX.threshold.xml``
+- ``NavData``
